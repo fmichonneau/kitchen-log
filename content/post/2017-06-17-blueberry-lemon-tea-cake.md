@@ -6,7 +6,7 @@ title = "Blueberry Lemon Tea Cake"
 thumbnail = "img/IMG_20170617_182223.jpg"
 +++
 
-I doubled original recipe (reflected in proportions listed below). It was not quite enough batter to fill in the loaf pans.
+I doubled original recipe (reflected in proportions listed below) to make 2 cakes. It was not quite enough batter to fill in both loaf pans.
 
 > # Ingredients
 >

@@ -4,6 +4,8 @@ draft = false
 date = "2017-06-17T17:04:26-04:00"
 title = "Blueberry Lemon Tea Cake"
 thumbnail = "img/IMG_20170617_182223.jpg"
+tags = ["blueberries","lemon","cake","pound cake","summer"]
+categories = ["cake","pastry"]
 +++
 
 I doubled original recipe (reflected in proportions listed below) to make 2 cakes. It was not quite enough batter to fill in both loaf pans.

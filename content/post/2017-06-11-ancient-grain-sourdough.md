@@ -5,7 +5,7 @@ date = "2017-06-11T10:02:26-04:00"
 title = "Ancient grain sourdough"
 thumbnail = "img/IMG_20170611_092346.jpg"
 tags = ["sourdough","bread","multigrain"]
-category = "bread"
+categories = ["bread","baking"]
 +++
 
 * For leaven: 3+ tablespoons of flour + water to make soft paste, on counter

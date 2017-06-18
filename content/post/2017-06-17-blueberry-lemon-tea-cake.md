@@ -1,5 +1,4 @@
 +++
-showonlyimage = false
 draft = false
 date = "2017-06-17T17:04:26-04:00"
 title = "Blueberry Lemon Tea Cake"
@@ -39,7 +38,7 @@ I doubled original recipe (reflected in proportions listed below) to make 2 cake
 Observations:
 
 * weird to add the butter so late, it required a lot of mixing which is probably not good for the texture of the cake in this recipe.
-
+* good lemon flavor, cake very dense, rich/heavy butter taste
 
 {{% img src="img/IMG_20170617_182223.jpg" w="600" h="400" %}}
 {{% img src="img/IMG_20170617_182115.jpg" w="600" h="400" %}}

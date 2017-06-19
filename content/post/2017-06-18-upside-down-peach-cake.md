@@ -29,5 +29,11 @@ Original recipe from the [NYT](https://cooking.nytimes.com/recipes/6355-peach-up
 9. cool down for 5-10 min, remove ring from pan, put plate over cake, flip it
 
 
+Observations:
+
+- caramel could be cooked more
+- use more caramel and peaches
+- good texture for the cake, maybe add almond extract
+
 {{% img src="img/IMG_20170618_185937.jpg" w="600" h="400" %}}
 {{% img src="img/IMG_20170618_190133.jpg" w="600" h="400" %}}

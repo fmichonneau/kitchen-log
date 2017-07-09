@@ -1,5 +1,4 @@
 +++
-showonlyimage = false
 draft = false
 date = "2017-06-11T10:02:26-04:00"
 title = "Ancient grain sourdough"

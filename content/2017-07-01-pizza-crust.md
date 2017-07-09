@@ -1,7 +1,7 @@
 +++
 title = "Pizza Crust"
 date = "2017-07-01"
-slug = "pizza-crust"
+slug = "2017-07-01-pizza-crust"
 #thumbnail = "img/"
 tags = [
   "pizza","sourdough"
@@ -30,4 +30,4 @@ For 4 pies
 * Got out of fridge at 3:30pm the following day
 * Cooked at 6pm
 
-Difficult to know out it turned out, stone wasn't warm enough.
+Difficult to know how out it turned out, stone wasn't warm enough, and guests ate most of it.

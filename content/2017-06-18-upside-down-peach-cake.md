@@ -1,5 +1,6 @@
 +++
 date = "2017-06-18T18:43:43-04:00"
+slug = "2017-06-18-peach-cake"
 draft = false
 title = "Upside-down Peach Cake"
 tags = ["peaches","cake","summer"]

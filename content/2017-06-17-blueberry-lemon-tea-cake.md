@@ -2,6 +2,7 @@
 draft = false
 date = "2017-06-17T17:04:26-04:00"
 title = "Blueberry Lemon Tea Cake"
+slug = "2017-06-17-blueberry-lemon-cake"
 thumbnail = "img/IMG_20170617_182223.jpg"
 tags = ["blueberries","lemon","cake","pound cake","summer"]
 categories = ["cake","pastry"]

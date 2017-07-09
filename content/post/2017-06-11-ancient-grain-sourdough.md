@@ -1,6 +1,7 @@
 +++
 draft = false
 date = "2017-06-11T10:02:26-04:00"
+slug = "2017-06-11-ancient-grain"
 title = "Ancient grain sourdough"
 thumbnail = "img/IMG_20170611_092346.jpg"
 tags = ["sourdough","bread","multigrain"]

@@ -21,7 +21,7 @@ draft = false
 * Leave 10 hours at room temperature + 10 hours in fridge
 * Oven set at 500°F, 25 min with lid on, and 20 min with lid off.
 
-
+Excellent taste, crust still a little thick to my taste.
 
 {{% img src="img/IMG_20170925_085124.jpg" w="600" h="400" %}}
 {{% img src="img/IMG_20170925_085243.jpg" w="600" h="400" %}}
